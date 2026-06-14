@@ -5,7 +5,7 @@ Welcome to my personal repository dedicated to **Arduino development, embedded e
 Every project here includes fully tested source code, structural wiring guides, and any companion automation tools.
 
 ---
-<img width="1536" height="598" alt="Brilliant Stantia-Jaagub" src="https://github.com/user-attachments/assets/f2bb6708-3a06-41c6-8d33-3c7bc97327c4" />
+
 
 
 ## 🛠️ Tech Stack & Ecosystem
@@ -17,7 +17,7 @@ Every project here includes fully tested source code, structural wiring guides, 
 
 ---
 
+<img width="736" height="414" alt="FromKlickpin com-ContentCalendarIdeasIdeasYoullKeepComingBackTo23991-pin-id-617837642695899355-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0a23ceee-9f93-4911-8bf7-6d74bbe96b90" />
 
-https://github.com/user-attachments/assets/6bcdff3d-9c76-43bb-976b-391095aaf977
 
 
