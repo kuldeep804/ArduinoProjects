@@ -1,5 +1,5 @@
-                                                         Welcome Buddy 
-<img width="1010" height="320" alt="download (2)" src="https://github.com/user-attachments/assets/bcafefef-94b7-4eee-96b1-afc61b98b2db" />
+                                                                    Yōkoso   
+<img width="1010" height="310" alt="download (2)" src="https://github.com/user-attachments/assets/bcafefef-94b7-4eee-96b1-afc61b98b2db" />
 
 # Arduino & Embedded Systems Hub
 
@@ -8,9 +8,8 @@ Welcome to my personal repository dedicated to **Arduino development, embedded e
 Every project here includes fully tested source code, structural wiring guides, and any companion automation tools.
 
 ---
+                                                               Kakkoī to omowanai?
 <img width="1010" height="330" alt="FromKlickpin com-31Polishedsimpledessertideasthatareworthsavingifyouloveelegantdetailsandcreativeinspirationforwomenwholove-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4d6041b8-fc13-4e4a-a6dc-7e3d534d5592" />
-
-
 
 
 
