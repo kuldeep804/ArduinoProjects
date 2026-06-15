@@ -1,3 +1,4 @@
+                                                         Welcome Buddy 
 <img width="1010" height="320" alt="download (2)" src="https://github.com/user-attachments/assets/bcafefef-94b7-4eee-96b1-afc61b98b2db" />
 
 # Arduino & Embedded Systems Hub
