@@ -1,3 +1,5 @@
+<img width="680" height="512" alt="download (2)" src="https://github.com/user-attachments/assets/bcafefef-94b7-4eee-96b1-afc61b98b2db" />
+
 # Arduino & Embedded Systems Hub
 
 Welcome to my personal repository dedicated to **Arduino development, embedded engineering, and hardware prototyping**. This space acts as a living portfolio and digital logbook for my electronics projects—ranging from sensor integrations and automation scripts to core microcontroller programming. 
@@ -5,6 +7,7 @@ Welcome to my personal repository dedicated to **Arduino development, embedded e
 Every project here includes fully tested source code, structural wiring guides, and any companion automation tools.
 
 ---
+<img width="736" height="414" alt="FromKlickpin com-31Polishedsimpledessertideasthatareworthsavingifyouloveelegantdetailsandcreativeinspirationforwomenwholove-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4d6041b8-fc13-4e4a-a6dc-7e3d534d5592" />
 
 
 
