@@ -1,4 +1,4 @@
-# 🤖 Arduino & Embedded Systems Hub
+# Arduino & Embedded Systems Hub
 
 Welcome to my personal repository dedicated to **Arduino development, embedded engineering, and hardware prototyping**. This space acts as a living portfolio and digital logbook for my electronics projects—ranging from sensor integrations and automation scripts to core microcontroller programming. 
 
