@@ -1,5 +1,5 @@
     Yōkoso , Welcome Buddy   
-<img width="1010" height="310" alt="download (2)" src="https://github.com/user-attachments/assets/bcafefef-94b7-4eee-96b1-afc61b98b2db" />
+<img width="1010" height="360" alt="download (2)" src="https://github.com/user-attachments/assets/bcafefef-94b7-4eee-96b1-afc61b98b2db" />
 
 # Arduino & Embedded Systems Hub
 
@@ -8,7 +8,7 @@ Welcome to my personal repository dedicated to **Arduino development, embedded e
 Every project here includes fully tested source code, structural wiring guides, and any companion automation tools.
 
     Kakkoī to omowanai? , Isn't it cool >_<
-<img width="1010" height="300" alt="FromKlickpin com-31Polishedsimpledessertideasthatareworthsavingifyouloveelegantdetailsandcreativeinspirationforwomenwholove-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4d6041b8-fc13-4e4a-a6dc-7e3d534d5592" />
+<img width="1010" height="340" alt="FromKlickpin com-31Polishedsimpledessertideasthatareworthsavingifyouloveelegantdetailsandcreativeinspirationforwomenwholove-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4d6041b8-fc13-4e4a-a6dc-7e3d534d5592" />
 
 
 
@@ -22,7 +22,7 @@ Every project here includes fully tested source code, structural wiring guides, 
 
 ---
      o’ cha Kuda Sai’ , Leaving Already Have some tea Guest 
-<img width="1010" height="330" alt="FromKlickpin com-ContentCalendarIdeasIdeasYoullKeepComingBackTo23991-pin-id-617837642695899355-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0a23ceee-9f93-4911-8bf7-6d74bbe96b90" />
+<img width="1010" height="340" alt="FromKlickpin com-ContentCalendarIdeasIdeasYoullKeepComingBackTo23991-pin-id-617837642695899355-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0a23ceee-9f93-4911-8bf7-6d74bbe96b90" />
 
 
 
