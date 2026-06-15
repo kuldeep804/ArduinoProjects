@@ -19,7 +19,7 @@ Every project here includes fully tested source code, structural wiring guides, 
 * **Core Concepts:** Sensor Interfacing, Serial Communication, PWM, I2C/SPI Protocols, Motor Control
 
 ---
-                o’ cha Kuda Sai’
+            o’ cha Kuda Sai’
 <img width="1010" height="330" alt="FromKlickpin com-ContentCalendarIdeasIdeasYoullKeepComingBackTo23991-pin-id-617837642695899355-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0a23ceee-9f93-4911-8bf7-6d74bbe96b90" />
 
 
